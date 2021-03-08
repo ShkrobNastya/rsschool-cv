@@ -1,10 +1,15 @@
 # Nastya Shkrob
+
 ## Contacts:
-Phone number: +375 (29) 123-11-22
-E-mail: nastya2122@gmail.com
+Phone number: +375 (29) 111-11-11
+
+E-mail: fakefake@gmail.com
+
 GitHub: [ShkrobNastya](https://github.com/ShkrobNastya)
+
 ## About me:
 Highly motivated, tech-savvy student with analytical ability and talent for managing information.
+
 ## Skills:
 * HTML
 * CSS
@@ -28,8 +33,13 @@ function mygcd(x,y) {
 
 ## More code examples:
 https://www.codewars.com/users/ShkrobNastya
+
 https://github.com/ShkrobNastya
+
 ## Education:
 Belarusian State University of Informatics and Radioelectronics, 2018-2022
+
+Faculty of Information Technologies and Control
+
 ## English:
 Level: B1
